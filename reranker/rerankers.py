@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-""" 
+"""
 @Author:     sai.chen
 @FileName:   rerankers.py
 @Date:       2025/02/17
-@Description: 
+@Description:
 ===============================================
 rerankers of HF backend and trition backend
 ===============================================
